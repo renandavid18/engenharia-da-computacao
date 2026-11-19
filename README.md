@@ -1,22 +1,16 @@
-# Engenharia da Computação 💻 ⚙️
+# Engenharia da Computação
 
-Repositório onde organizo meus códigos, exercícios e projetos feitos durante a faculdade. Aqui vou reunindo o que estudo e desenvolvo ao longo do curso.
+Códigos, exercícios e implementações desenvolvidos ao longo da graduação em Engenharia da Computação na UVA. Projetos maiores e aplicações independentes ficam em repositórios separados no meu perfil.
 
-## 📂 Disciplinas
+## Disciplinas
 
-Separei os arquivos por matéria para facilitar a organização:
+- `01-algoritmos-e-programacao/` — Lógica, algoritmos e exercícios iniciais em Portugol (Visualg).
+- `02-estruturas-de-dados/` — Implementação e manipulação de listas, pilhas, filas, árvores e algoritmos de ordenação em C.
+- `03-programacao-orientada-a-objetos/` — Modelagem, classes, herança, polimorfismo e manipulação de arquivos em Java.
+- `04-programacao-de-sistemas-especialistas/` — Sistemas baseados em regras, motores de inferência (encadeamento para trás), diagnósticos e manipulação de dados em Python (Pandas).
 
-- `01-algoritmos-e-programacao/` — Exercícios e códigos em C e Python.
-- `02-estruturas-de-dados/` — Listas, pilhas, filas, árvores e ordenação.
-- `03-arquitetura-de-computadores/` — Assembly, circuitos lógicos e atividades de hardware.
-- `04-programacao-orientada-a-objetos/` — Exercícios e projetos em Java e C++.
+## Stack e ferramentas
 
-## 🛠️ Tecnologias e ferramentas
-
-- **Linguagens:** C, C++, Python e Java.
-- **Hardware e simulação:** Arduino, Tinkercad e Logisim.
-- **Versionamento:** Git e GitHub.
-
-## 📌 Observação
-
-Este repositório reúne principalmente atividades e exercícios da graduação. Projetos maiores ficam em repositórios separados, disponíveis no meu perfil.
+- **Linguagens:** C, Java e Python (além de Portugol nas bases)
+- **Bibliotecas:** Pandas
+- **Ferramentas:** Git, GitHub, Eclipse, Visualg, IntelliJ IDEA e VS Code
