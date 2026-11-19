@@ -1,0 +1,11 @@
+import json
+
+aluno = {"nome": "Ana", "Idade": 19}
+
+with open("aluno.json", "w", encoding="utf-8") as arquivo:
+    json.dump(aluno, arquivo, ensure_ascii=False, indent=2)
+
+with open("aluno.json", "r", encoding="utf-8") as arquivo:
+    dados = json.load(arquivo)
+
+print(dados["nome"])

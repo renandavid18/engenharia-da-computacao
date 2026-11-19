@@ -1,0 +1,17 @@
+{
+  "turma": "Sistemas Especialistas",
+  "alunos": [
+    {
+      "nome": "Ana",
+      "nota": 8.5
+    },
+    {
+      "nome": "Bruno",
+      "nota": 6.0
+    },
+    {
+      "nome": "Carla",
+      "nota": 9.0
+    }
+  ]
+}
